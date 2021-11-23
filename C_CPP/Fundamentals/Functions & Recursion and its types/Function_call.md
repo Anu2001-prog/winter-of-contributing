@@ -27,7 +27,7 @@ In this function call if the called function is assumed to modify the value of t
 ```cpp
 #include<iostream>
 using namespace std;
-void Sum(int NuM);
+void Sum(int  NuM);
 int main()
 {
 int NuMber = 20;
